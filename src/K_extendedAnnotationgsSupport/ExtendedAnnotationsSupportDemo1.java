@@ -1,4 +1,4 @@
-package J_extendedAnnotationgsSupport;
+package K_extendedAnnotationgsSupport;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Target;

@@ -3,7 +3,7 @@
 // (powered by Fernflower decompiler)
 //
 
-package C_collector;
+package F2_collector;
 
 import java.util.ArrayList;
 import java.util.Comparator;

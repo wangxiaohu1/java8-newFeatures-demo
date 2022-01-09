@@ -1,1 +1,0 @@
-package G_nashornScript;

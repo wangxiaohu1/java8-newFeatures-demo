@@ -1,4 +1,4 @@
-package I_repeatingAnnotations;
+package J_repeatingAnnotations;
 
 import java.lang.annotation.*;
 
