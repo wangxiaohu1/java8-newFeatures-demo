@@ -1,4 +1,4 @@
-package G_nashornScript.demo;
+package G_nashornScript;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;

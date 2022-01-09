@@ -1,4 +1,4 @@
-package J_compiler.demo;
+package J_compiler;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Parameter;

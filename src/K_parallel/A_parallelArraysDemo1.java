@@ -1,4 +1,4 @@
-package K_parallel.demo;
+package K_parallel;
 
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;

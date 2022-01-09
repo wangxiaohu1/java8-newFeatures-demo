@@ -1,4 +1,4 @@
-package F_nullOptionalDemo1.demo;
+package F_nullOptionalDemo1;
 
 import model.Student;
 
