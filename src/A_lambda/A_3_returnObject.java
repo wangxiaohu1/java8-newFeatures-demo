@@ -33,7 +33,8 @@ public class A_3_returnObject {
     }
 
 
-    //声明一个接口，用于运算
+    //声明一个函数式接口，用于运算，@FunctionalInterface标注的接口会被编译器检查是否符合函数式接口规范
+    @FunctionalInterface
     interface  DoMath{
         //声明一个接口
         int action(int x, int y);
